@@ -1,0 +1,7 @@
+/* Global styles for the Startup Tycoon app */
+
+/* Router container */
+.app-router {
+  width: 100vw;
+  height: 100vh;
+} 
