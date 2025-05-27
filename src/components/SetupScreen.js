@@ -17,8 +17,8 @@ function SetupScreen() {
         startupName
       };
       console.log('Game setup completed:', gameData);
-      // TODO: Navigate to main game screen
-      alert(`Welcome ${gameData.founderName}! Your ${gameData.industry} startup "${gameData.startupName}" is ready to launch!`);
+      // Navigate to introduction page with game data
+      navigate('/introduction', { state: gameData });
     }
   };
 
