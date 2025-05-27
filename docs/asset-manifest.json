@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/startup-tycoon/static/css/main.2778a0f7.css",
+    "main.js": "/startup-tycoon/static/js/main.64cc191c.js",
+    "static/media/generic-background.png": "/startup-tycoon/static/media/generic-background.483db7e1651dbff4c129.png",
+    "index.html": "/startup-tycoon/index.html",
+    "main.2778a0f7.css.map": "/startup-tycoon/static/css/main.2778a0f7.css.map",
+    "main.64cc191c.js.map": "/startup-tycoon/static/js/main.64cc191c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2778a0f7.css",
+    "static/js/main.64cc191c.js"
+  ]
+}
